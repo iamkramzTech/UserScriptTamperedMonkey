@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2.1
 // @description  Adds running dogs to any website
-// @author       You
+// @author       iamkramzTech
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==

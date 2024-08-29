@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Adds a Matrix-style rain effect with binary digits to any website without hiding content
-// @author       You
+// @author       iamkramzTech
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
